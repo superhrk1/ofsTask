@@ -1,0 +1,218 @@
+{
+  "_meta": {
+    "app": "CorpTask",
+    "version": "3.0",
+    "savedAt": "2026-07-13T19:36:44.115Z"
+  },
+  "tasks": [
+    {
+      "id": "task_1783971380216_xypcu",
+      "title": "Prepare Q3 Financial Report",
+      "notes": "Compile data from all departments and cross-reference with budget allocations for the quarterly review.",
+      "status": "inprogress",
+      "priority": "critical",
+      "due": "2026-07-14",
+      "reminder": "2026-07-13",
+      "category": "Finance",
+      "assignee": "Alice Johnson",
+      "tags": [
+        "Q3",
+        "report",
+        "urgent"
+      ],
+      "attachments": [
+        "/docs/q3-template.xlsx"
+      ],
+      "createdAt": "2026-07-10T08:16:20.216Z",
+      "updatedAt": "2026-07-13T19:36:20.216Z"
+    },
+    {
+      "id": "task_1783971380216_84mcx",
+      "title": "Design new product landing page",
+      "notes": "Create wireframes and high-fidelity mockups for the new SaaS product launch.",
+      "status": "todo",
+      "priority": "high",
+      "due": "2026-07-16",
+      "reminder": "",
+      "category": "Design",
+      "assignee": "Carol White",
+      "tags": [
+        "design",
+        "landing-page"
+      ],
+      "attachments": [],
+      "createdAt": "2026-07-11T12:03:00.216Z",
+      "updatedAt": "2026-07-13T19:36:20.216Z"
+    },
+    {
+      "id": "task_1783971380216_6ufe8",
+      "title": "Sprint planning meeting",
+      "notes": "Review backlog, assign story points, and set sprint goals for the development team.",
+      "status": "todo",
+      "priority": "medium",
+      "due": "2026-07-13",
+      "reminder": "",
+      "category": "Development",
+      "assignee": "Bob Smith",
+      "tags": [
+        "meeting",
+        "agile"
+      ],
+      "attachments": [],
+      "createdAt": "2026-07-12T15:49:40.216Z",
+      "updatedAt": "2026-07-13T19:36:20.216Z"
+    },
+    {
+      "id": "task_1783971380216_gt4pm",
+      "title": "Review and approve vendor contracts",
+      "notes": "Legal has sent updated terms. Needs executive sign-off before end of business day.",
+      "status": "completed",
+      "priority": "high",
+      "due": "2026-07-12",
+      "reminder": "",
+      "category": "Operations",
+      "assignee": "David Lee",
+      "tags": [
+        "legal",
+        "contracts"
+      ],
+      "attachments": [
+        "/legal/vendor-contract-v3.pdf"
+      ],
+      "createdAt": "2026-07-09T04:29:40.216Z",
+      "updatedAt": "2026-07-13T19:36:44.098Z"
+    },
+    {
+      "id": "task_1783971380216_8lvq5",
+      "title": "Set up CI/CD pipeline",
+      "notes": "Configure GitHub Actions for automated testing and deployment across all environments.",
+      "status": "completed",
+      "priority": "medium",
+      "due": "2026-07-10",
+      "reminder": "",
+      "category": "Development",
+      "assignee": "Bob Smith",
+      "tags": [
+        "devops",
+        "automation"
+      ],
+      "attachments": [],
+      "createdAt": "2026-07-08T00:43:00.216Z",
+      "updatedAt": "2026-07-13T19:36:20.216Z"
+    },
+    {
+      "id": "task_1783971380216_qpjgp",
+      "title": "Onboard new marketing hire",
+      "notes": "Schedule orientation, set up accounts and tools, assign initial onboarding tasks.",
+      "status": "todo",
+      "priority": "medium",
+      "due": "2026-07-18",
+      "reminder": "",
+      "category": "HR",
+      "assignee": "Alice Johnson",
+      "tags": [
+        "onboarding",
+        "hr"
+      ],
+      "attachments": [],
+      "createdAt": "2026-07-12T01:56:20.216Z",
+      "updatedAt": "2026-07-13T19:36:20.216Z"
+    },
+    {
+      "id": "task_1783971380216_9k8yj",
+      "title": "Social media campaign — product launch",
+      "notes": "Draft and schedule posts across LinkedIn, Twitter, and Instagram for the product launch.",
+      "status": "inprogress",
+      "priority": "high",
+      "due": "2026-07-20",
+      "reminder": "",
+      "category": "Marketing",
+      "assignee": "Carol White",
+      "tags": [
+        "social-media",
+        "launch",
+        "urgent"
+      ],
+      "attachments": [],
+      "createdAt": "2026-07-06T20:56:20.216Z",
+      "updatedAt": "2026-07-13T19:36:20.216Z"
+    },
+    {
+      "id": "task_1783971380216_lc9j2",
+      "title": "Update employee handbook",
+      "notes": "Incorporate new remote work policies, benefits updates, and compliance requirements.",
+      "status": "todo",
+      "priority": "low",
+      "due": "2026-07-27",
+      "reminder": "",
+      "category": "HR",
+      "assignee": "",
+      "tags": [
+        "hr",
+        "documentation"
+      ],
+      "attachments": [
+        "/hr/handbook-draft.docx"
+      ],
+      "createdAt": "2026-07-05T17:09:40.216Z",
+      "updatedAt": "2026-07-13T19:36:20.216Z"
+    },
+    {
+      "id": "task_1783971380216_3gxer",
+      "title": "Q3 Security Audit",
+      "notes": "Run vulnerability scan on all production servers and review access control logs.",
+      "status": "todo",
+      "priority": "critical",
+      "due": "2026-07-11",
+      "reminder": "",
+      "category": "Operations",
+      "assignee": "David Lee",
+      "tags": [
+        "security",
+        "audit",
+        "Q3"
+      ],
+      "attachments": [],
+      "createdAt": "2026-07-04T13:23:00.216Z",
+      "updatedAt": "2026-07-13T19:36:20.216Z"
+    },
+    {
+      "id": "task_1783971380216_5tucf",
+      "title": "Enterprise client proposal",
+      "notes": "Finalize pricing model, prepare executive summary and pitch deck for the enterprise deal.",
+      "status": "inprogress",
+      "priority": "critical",
+      "due": "2026-07-15",
+      "reminder": "",
+      "category": "Finance",
+      "assignee": "Alice Johnson",
+      "tags": [
+        "sales",
+        "proposal"
+      ],
+      "attachments": [
+        "/proposals/enterprise-v2.pptx"
+      ],
+      "createdAt": "2026-07-03T09:36:20.216Z",
+      "updatedAt": "2026-07-13T19:36:20.216Z"
+    }
+  ],
+  "categories": [
+    "Development",
+    "Design",
+    "Marketing",
+    "Finance",
+    "HR",
+    "Operations"
+  ],
+  "members": [
+    "Alice Johnson",
+    "Bob Smith",
+    "Carol White",
+    "David Lee"
+  ],
+  "settings": {
+    "theme": "dark",
+    "autoSave": true
+  }
+}
